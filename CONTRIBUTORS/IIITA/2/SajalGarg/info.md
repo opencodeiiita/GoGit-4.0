@@ -1,8 +1,14 @@
-**Issue**: 1
-* **College Name**:   IIIT ALLAHABAD
-* **Current Year**: 2nd Year UG  
-* **Name**: Sajal Garg
+Issue: #1
 
-**Answer to the Question**:  
-Q: What inspired you to join this project?  
-A: I joined this project to improve my Git and GitHub skills and collaborate with others in the open-source community.
+<!-- Add the issue number that is fixed by this PR (In the form Issue: 123) -->
+<!-- remove these comment lines-->
+
+#### Short description of what this resolves:
+cool facts about me 
+
+
+#### Changes proposed in this pull request and/or Screenshots of changes:
+
+-name : Sajal Garg
+-
+-

@@ -1,8 +1,7 @@
-# info.md
-
-**College Name**:   IIIT ALLAHABAD
-**Current Year**: 2nd Year UG  
-**Name**: Sajal Garg
+**Issue**: 1
+* **College Name**:   IIIT ALLAHABAD
+* **Current Year**: 2nd Year UG  
+* **Name**: Sajal Garg
 
 **Answer to the Question**:  
 Q: What inspired you to join this project?  

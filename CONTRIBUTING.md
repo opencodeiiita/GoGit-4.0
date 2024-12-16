@@ -4,9 +4,9 @@ There are some strict rules that you must know before contributing to this proje
 - If you are making your first PR, then other than the task provided in the issue section, PR must contain your `info.md` file with some information about you
  at this location: <br>
   ```java
-  CONTRIBUTORS / <Your college name> / <Current year of your UG course> / <Your name> / Info.md 
+  CONTRIBUTORS / <Academy Of Technology> / <1st Year> / <Rajdeep Paul> / Info.md 
   (White spaces are only for your understanding). For reference you can see my info.md. 
-  ```
+  
   
 - If I told you to answer a question in any task, then: <br>
 `

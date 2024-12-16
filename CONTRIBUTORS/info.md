@@ -1,7 +1,7 @@
 
 # About Me
 Hello! I'm Holly Yen! 👋
-
+- I am from IIITA 24-28
 - I enjoy contributing to open-source projects and collaborating with developers.  
 - My favorite tools are Git, VS Code.  
 - Fun fact: I built my first prototype website when I was 12 years old!  

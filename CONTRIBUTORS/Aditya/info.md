@@ -14,4 +14,4 @@ I am excited to explore programming and software development to create innovativ
 
 ## Hobbies
 - **Coding**: still exploring!! 
-- **Sports**: a way to enjoy
+- **Sports**: a way to enjoy :)

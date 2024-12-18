@@ -8,7 +8,7 @@ There are some strict rules that you must know before contributing to this proje
   (White spaces are only for your understanding). For reference you can see my info.md. 
   ```
   
-- If I told you to answer a question in any task, then: <br>
+- If I told you to answer a question in any task, then: <br>  
 `
 You must copy that question in your 'info.md' and answer it. Syntax is almost same as you write answers to questions in your notebook. 
 ` 

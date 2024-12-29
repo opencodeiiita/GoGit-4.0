@@ -30,3 +30,5 @@ I love cp because it requires me think logically nad critically in short period 
 
 - **Watching movies, listening to songs**: I love to listen to songs and watch thriller movies.
 
+Check my portfolio website:
+https://sanjitha006.github.io/portfolio/sanjitha_portfolio.html

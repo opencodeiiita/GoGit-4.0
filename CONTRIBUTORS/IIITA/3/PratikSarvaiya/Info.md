@@ -4,6 +4,8 @@
 
 Hi, I'm Pratikkumar Sarvaiya, a passionate competitive programmer with a strong enthusiasm for leveraging problem-solving skills to tackle real-world challenges. I aspire to contribute meaningfully to the open-source community and explore new opportunities in software development. I enjoy coding contests and building impactful projects.
 
+Visit my portfolio: [https://pratik9998.github.io/Portfolio/main.html](https://pratik9998.github.io/Portfolio/main.html)
+
 ---
 
 ## Academic Details 

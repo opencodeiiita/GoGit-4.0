@@ -15,13 +15,13 @@ What inspires me to contribute to open-source projects?
 ### Answer:
 I like learning about new projects and software and collaborating with others to work on something good.
 
-
-
-Portfolio Link: https://phox-9.github.io/portfolio/
-
 ## Hobbies
 - **Coding**: I like coding
 
 - **Football**: I have been playing football for the last 7-8 years and enjoy playing it.
 
 - **Music**: Listening as well as creating music using FL Studio
+
+
+## Portfolio:
+- **Portfolio Link**: https://phox-9.github.io/portfolio/

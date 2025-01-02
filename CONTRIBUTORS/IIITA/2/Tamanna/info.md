@@ -8,7 +8,7 @@ Hello, this is Tamanna Kapoor, a student with an interest in web development, op
 - **Current Year of UG Course**: 2nd Year   
 
 ## Webpage 
-https://tamannaakapoor.github.io/GoGit-4.0/
+https://tamannaakapoor.github.io/inforepo/
 
 ## Question and Answer Section
 ### Question:

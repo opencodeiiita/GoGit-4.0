@@ -1,6 +1,1 @@
-CONTRIBUTORS / <Your college name> / <Current year of your UG course> / <Your name> / Info.md 
-(White spaces are only for your understanding). For reference you can see my info.md. 
-
-Women institute of technology Dehraadun,Uttrakhand
-b-tech (Computer science and Engineering)
-Shristi
+ashok selvan

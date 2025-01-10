@@ -7,3 +7,11 @@ Flop Movies:
 Hit Movies:
 1. The Dark Knight
 2. American Psycho
+
+PlaceHolder text
+
+Answer: To delete a specific commit, I will use interactive rebase. 
+1. Identify the range of commits to rebase
+2. Modify the rebase instructions
+3. Finalize the rebase
+4. Force push changes

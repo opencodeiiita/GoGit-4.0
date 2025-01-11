@@ -32,3 +32,8 @@ I love cp because it requires me think logically nad critically in short period 
 
 Check my portfolio website:
 https://sanjitha006.github.io/portfolio/sanjitha_portfolio.html
+
+how i deleted a commit:
+cheked the commit id of the commit i want to delete using "git log" command
+used git revert "commit id"
+git push origin main

@@ -37,3 +37,5 @@ how i deleted a commit:
 cheked the commit id of the commit i want to delete using "git log" command
 used git revert "commit id"
 git push origin main
+
+second commit data

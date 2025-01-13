@@ -24,4 +24,4 @@ How i will go about this task:
 1. I will create 2 commits, push them and open a PR.
 2. I intend to delete the second commit using git revert.
 3. Then i will push the changes to the remote repo.
-4. Second commit Im just writing anything, delete hi karna hai.
+
